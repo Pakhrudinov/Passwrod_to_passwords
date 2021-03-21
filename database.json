@@ -1,0 +1,20 @@
+{
+    "Users": [
+        {
+            "ID": "00000000",
+            "Login": "Saygid",
+            "Note": "axashbxnahs\naxkhabhxsja\n\n\n",
+            "Password": "1234567890",
+            "Passwords": [
+                {
+                    "For what": "mail",
+                    "login": "saygip@mail.ru",
+                    "password": "123456789"
+                }
+            ]
+        }
+    ],
+    "all id": [
+        "00000000"
+    ]
+}
